@@ -11,7 +11,7 @@ ECIT, Queen's University Belfast, UK
 This is an educational reference implementation of the **BLZZRD** 
 Ring-LWE signature scheme, which is an evolutionary version of the
 BLISS signature scheme originally published in Crypto '13:
-*Léo Ducas, Alain Durmus, Tancrède Lepoint, Vadim Lyubashevsky:
+*Léo Ducas, Alain Durmus, Tancrède Lepoint, Vadim Lyubashevsky*:
 Lattice Signatures and Bimodal Gaussians
 
 Extended version of this paper is available as 
