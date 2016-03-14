@@ -23,7 +23,7 @@ More specifically, this code also implements
 the BLISS-B optimizations by Léo Ducas, described in
 [IACR ePrint 2014/874](https://eprint.iacr.org/2014/874).
 
-However, this is only eductional code. Some shortcuts have been taken and
+However, this is only educational code. Some shortcuts have been taken and
 therefore this should not be used in production in its current form.
 
 The main experimental modifications are:
@@ -62,7 +62,7 @@ That last line indicates success.
 
 Have fun.
 
-Cheers, -markku
+Cheers, -Markku
 
 **ABSOLUTELY NO WARRANTY WHATSOEVER**
 
