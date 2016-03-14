@@ -8,15 +8,18 @@ ECIT, Queen's University Belfast, UK
 
 # Introduction
 
-This is an educational reference implementation of the **BLZZRD** 
-Ring-LWE signature scheme, which is an evolutionary version of the
+This is an educational implementation of the **BLZZRD** 
+Ring-LWE signature scheme, described in more detail
+in *Markku-Juhani O. Saarinen*: "Arithmetic Coding and Blinding for Lattice Cryptography"
+Available as [IACR ePrint 2016/276](https://eprint.iacr.org/2016/276).
+
+BLZZRD is an evolutionary version of the
 BLISS signature scheme originally published in Crypto '13:
 *Léo Ducas, Alain Durmus, Tancrède Lepoint, Vadim Lyubashevsky*:
-Lattice Signatures and Bimodal Gaussians
-
-Extended version of this paper is available as 
+"Lattice Signatures and Bimodal Gaussians"
+Extended version of that paper is available as 
 [IACR ePrint 2013/383](https://eprint.iacr.org/2013/383). This code implements
-BLISS-B optimizations by Léo Ducas, described in
+the BLISS-B optimizations by Léo Ducas, described in
 [IACR ePrint 2014/874](https://eprint.iacr.org/2014/874).
 
 The main experimental modifications are:
